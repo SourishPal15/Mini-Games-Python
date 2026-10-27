@@ -22,10 +22,13 @@ Each project focuses on gameplay, problem-solving, and practical programming whi
 
 ## Games
 
-| Game       | Description                                                                                              | Technologies   |
-| ---------- | -------------------------------------------------------------------------------------------------------- | -------------- |
-| Snake Game | A classic snake game featuring apple collection, growth, increasing difficulty, and collision detection. | Python, Pygame |
-| Connect 4  | A classic strategy game where players compete to connect four pieces in a row.                           | Python, Pygame |
+| Game           | Description                                                                                                                  | Technologies   |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| Snake Game     | A classic snake game featuring apple collection, growth, increasing difficulty, and collision detection.                     | Python, Pygame |
+| Connect 4      | A classic strategy game where players compete to connect four pieces in a row.                                               | Python, Pygame |
+| Tic Tac Toe    | A classic two-player game featuring computer AI, symbol selection, smooth animations, and win detection.                     | Python, Pygame |
+| Dots and Boxes | A strategy game where players connect dots to complete boxes, featuring computer opponents with multiple difficulty levels.  | Python, Pygame |
+| Memory Game    | A card-matching game that challenges players to find matching pairs, with computer opponents and multiple difficulty levels. | Python, Pygame |
 
 ## Features
 
@@ -78,6 +81,7 @@ These projects provide hands-on practice with:
 * Scoring systems and difficulty progression.
 * Graphical rendering, animation, and sound.
 * Problem-solving, debugging, and code organization.
+* Basic AI logic and decision-making algorithms.
 
 ## Future Plans
 
